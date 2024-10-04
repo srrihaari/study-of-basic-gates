@@ -85,7 +85,8 @@ endmodule
 
 **RTL realization:** 
 ![image](https://github.com/user-attachments/assets/cadb9809-475f-48bd-86f7-f7e118486a05)
-**output:**
+
+**RTL:**
 ![image](https://github.com/user-attachments/assets/541e6d92-8838-4c6a-a425-8c0bd2a99cb7)
 
 
