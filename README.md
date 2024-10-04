@@ -81,7 +81,9 @@ xnor(f_xnor,a,b);
 endmodule
 ```
 **Logic symbol & Truthtable**
-![image](https://github.com/user-attachments/assets/d2430ce5-0877-424c-9436-af759b761cfc)
+![image](https://github.com/user-attachments/assets/a0f6ea95-3561-4d52-9a10-2b9affbbc162)
+**RTL realization**
+![image](https://github.com/user-attachments/assets/a8ea3bde-9715-4df1-8804-50b5e0a2fc5d)
 
 **RTL realization:** 
 ![image](https://github.com/user-attachments/assets/cadb9809-475f-48bd-86f7-f7e118486a05)
