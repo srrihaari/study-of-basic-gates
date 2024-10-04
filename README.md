@@ -78,7 +78,8 @@ not(f_not,a);
 nand(f_nand,a,b);
 xor(f_xor,a,b);
 xnor(f_xnor,a,b);
-endmodule'''
+endmodule
+'''
 
 **Logic symbol & Truthtable**
 ![image](https://github.com/user-attachments/assets/d2430ce5-0877-424c-9436-af759b761cfc)
