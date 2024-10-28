@@ -92,6 +92,6 @@ endmodule
 ![Screenshot 2024-03-13 153234](https://github.com/04Varsha/study-of-basic-gates/assets/149035374/f207de9e-70e8-480c-805b-7bba6eba26d7)
 
 ## Result: 
-Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
+Thus the different basic logic gates are studied and the truth table for different logic gates are verified.
 
 
